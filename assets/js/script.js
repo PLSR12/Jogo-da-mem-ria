@@ -94,7 +94,7 @@ function flipCard() {
           firstCardView.classList.remove("flip");
           secondCardView.classList.remove("flip");
           game.unflipCards();
-        }, 5000);
+        }, 3500);
       }
     }
   }
