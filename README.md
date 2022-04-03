@@ -20,7 +20,7 @@ Repositório do projeto **Jogo da Memória** proposto no curso de Desenvolviment
 
 <h3 id="inicio">🚀 Início</h3>
 
-[Start Game](https://brseghese.github.io/progbr-jogo-da-memoria) 🎮
+[Start Game](https://jogo-da-memoria-lilac.vercel.app/) 🎮
 
 <h3 id="pre-requisitos">📋 Pré-requisitos</h3>
 
@@ -28,15 +28,13 @@ Repositório do projeto **Jogo da Memória** proposto no curso de Desenvolviment
 
 <h3 id="acessar-projeto">📁 Acessar Projeto</h3>
 
-◽ <a href="https://github.com/brseghese/progbr-jogo-da-memoria/tree/main">Acessar</a>🔗 o código fonte pelo GitHub. <br>
-◽ <a href="https://github.com/brseghese/progbr-jogo-da-memoria/archive/refs/heads/main.zip">Download</a>🔗 do código fonte no formato zip.<br>
 ◽ Clonar o repositório ultilizando Git Bash + o comando:
 
        $ git clone https://github.com/brseghese/progbr-jogo-da-memoria.git
 
 <h3 id="instalacao">🛠️ Instalação</h3>
 
-Não há necessidade de instalação, clique em [Start Game](https://brseghese.github.io/progbr-jogo-da-memoria)🔗 para jogar.
+Não há necessidade de instalação, clique em [Start Game] (https://jogo-da-memoria-lilac.vercel.app/)🔗 para jogar.
 
 <h3 id="tecnologias">⚙️ Tecnologias Utilizadas</h3>
 
