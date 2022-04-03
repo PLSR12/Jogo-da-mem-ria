@@ -75,5 +75,5 @@ Em fase de testes. 🚧
 
 <h3 id="autor">✒️ Autor</h3>
 
-Desenvolvido com ❤️ por Bruno Seghese e editado por Pedro Lucas 
+Desenvolvido com ❤️ por Bruno Seghese e editado por Pedro Lucas  <br>
 © Alguns direitos reservados.
